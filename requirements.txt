@@ -3,3 +3,4 @@ nbserverproxy
 py4j
 scipy
 matplotlib
+pandas
