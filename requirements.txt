@@ -1,4 +1,4 @@
-pyspark==2.3.0
+pyspark
 nbserverproxy
 py4j
 matplotlib
