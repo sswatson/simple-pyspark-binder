@@ -1,7 +1,5 @@
 pyspark
 nbserverproxy
 py4j
-matplotlib
-numpy
-pandas
 scipy
+matplotlib
